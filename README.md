@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacktone-wambui
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning web programming and android development using java
-- 💞️ I’m looking to collaborate on any java,html,css and c++ project
+- 💞️ I’m looking to collaborate on any java,html,css,php,java and python projects
 - 📫 How to reach me ... 0740213210,Facebook:jack warren
 - twitter:@Don_jackwarren
 <!---
