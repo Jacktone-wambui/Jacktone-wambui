@@ -8,3 +8,5 @@
 Jacktone-wambui/Jacktone-wambui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![image](https://user-images.githubusercontent.com/91588670/176033861-3644dd32-5293-43aa-89b9-e599f29032b1.png)
