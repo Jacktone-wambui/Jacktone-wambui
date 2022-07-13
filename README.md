@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jacktone-wambui
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning web programming and android development using java
+- 👀Iam UX designer and engineer having knowledge in c++. java,php,python html and css.I like building products that provide good user experience.
 - 💞️ I’m looking to collaborate on any java,html,css,php,java and python projects
 - 📫 How to reach me ... 0740213210,Facebook:jack warren
 - twitter:@Don_jackwarren
