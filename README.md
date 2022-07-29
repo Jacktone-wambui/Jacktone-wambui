@@ -2,7 +2,7 @@
 - 👀Iam UX designer and engineer having knowledge in c++. java,php,python html and css.I like building products that provide good user experience.
 - 💞️ I’m looking to collaborate on any java,html,css,php,java and python projects
 - 📫 How to reach me ... 0740213210,Facebook:jack warren
-- twitter:@Don_jackwarren
+- twitter:@jacktonewambui
 <!---
 Jacktone-wambui/Jacktone-wambui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
