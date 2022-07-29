@@ -12,5 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 ![php](https://user-images.githubusercontent.com/91588670/181853060-72ac5503-5529-4597-8b27-20db3261732c.png)
 ![java](https://user-images.githubusercontent.com/91588670/181853238-7d88b19a-9d23-4e59-9759-1f58be60e779.png)
-![android](https://user-images.githubusercontent.com/91588670/181853241-e0d1af16-5cdb-4672-8678-50e80504afef.png)
-![linux](https://user-images.githubusercontent.com/91588670/181853242-041b91eb-807a-4bc0-990c-f16d06c50ee8.png)
+![android](https://user-images.githubusercontent.com/91588670/181853241-e0d1af16-5cdb-4672-8678-50e80504afef.png)![linux](https://user-images.githubusercontent.com/91588670/181853242-041b91eb-807a-4bc0-990c-f16d06c50ee8.png)
